@@ -11,6 +11,14 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class ShopController extends AbstractController
 {
+	/**
+     * @Route("/")
+     */
+    public function home()
+    {
+       return $this->render('shop/home.html.twig');
+    }
+	
     /**
      * @Route("/shop/homepage")
      */
