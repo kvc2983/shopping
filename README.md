@@ -32,10 +32,10 @@ INSERT INTO `product` (`id`, `name`, `decription`, `price`, `quantity`, `img`, `
 (14, 'Item six Name', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.', '66.45', 7, 'http://placehold.it/700x400', '2020-09-30 22:09:17');
 
 Home Page Screen:
-![](./Screenshot/home.jpeg)
+![](./Screenshot/home.png)
 
 Shop page Screen:
-![](./Screenshot/shop.jpeg)
+![](./Screenshot/shop.png)
 
 MySQL databse Dump:
 - Please find file at Databse_dump/shopping_cart
