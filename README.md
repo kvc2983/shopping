@@ -19,4 +19,4 @@ PHP Symfony shopping cart
 - copy `.env` file to `.env.local` and type your local environment variables, eg. mysql connection
 - run `php bin/console doctrine:migrations:migrate` to add database tables
 
-- Easy admin can access through  http://127.0.0.1:8000/
+- You can access through  http://127.0.0.1:8000/
