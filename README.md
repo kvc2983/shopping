@@ -31,11 +31,11 @@ INSERT INTO `product` (`id`, `name`, `decription`, `price`, `quantity`, `img`, `
 (13, 'Item Five Name', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.', '12.00', 7, 'http://placehold.it/700x400', '2020-09-30 22:09:17'),
 (14, 'Item six Name', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.', '66.45', 7, 'http://placehold.it/700x400', '2020-09-30 22:09:17');
 
-Home Page Screen:
+<!-- Home Page Screen:
 ![](./Screenshot/home.png)
 
 Shop page Screen:
-![](./Screenshot/shop.png)
+![](./Screenshot/shop.png) -->
 
 MySQL databse Dump:
 - Please find file at Databse_dump/shopping_cart
